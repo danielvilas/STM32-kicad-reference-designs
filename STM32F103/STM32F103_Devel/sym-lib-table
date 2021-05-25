@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name STM32)(type Legacy)(uri ${KIPRJMOD}/lib/STM32.lib)(options "")(descr ""))
+  (lib (name STM32103_Devel-rescue)(type Legacy)(uri ${KIPRJMOD}/STM32103_Devel-rescue.lib)(options "")(descr ""))
+)
