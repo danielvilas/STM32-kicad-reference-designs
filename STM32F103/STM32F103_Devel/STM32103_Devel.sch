@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date ""
-Rev ""
+Date "2020-07-01"
+Rev "0.0.2"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -270,7 +270,7 @@ Wire Wire Line
 	1850 6650 2200 6650
 Connection ~ 1850 6650
 Wire Notes Line
-	5100 4000 7250 4000
+	5100 4000 8950 4000
 $Comp
 L Device:Crystal Y2
 U 1 1 5ED4CF7E
@@ -598,7 +598,7 @@ L Device:CP C10
 U 1 1 5ED13F7D
 P 3300 2500
 F 0 "C10" H 3418 2546 50  0000 L CNN
-F 1 "CP" H 3418 2455 50  0000 L CNN
+F 1 "10uf" H 3418 2455 50  0000 L CNN
 F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A" H 3338 2350 50  0001 C CNN
 F 3 "~" H 3300 2500 50  0001 C CNN
 F 4 " C7171" H 3300 2500 50  0001 C CNN "LCSC"
@@ -1316,7 +1316,7 @@ Wire Wire Line
 Wire Wire Line
 	3700 6250 3500 6250
 Wire Notes Line
-	5100 2400 7350 2400
+	5100 2400 8950 2400
 $Comp
 L STM32103_Devel-rescue:USB_B_Micro-Connector J2
 U 1 1 5F2F7F4D
@@ -1421,9 +1421,9 @@ Wire Wire Line
 Wire Wire Line
 	7000 3250 7050 3250
 Text Label 7050 3150 0    50   ~ 0
-USB_DP
+USBD_P
 Text Label 7050 3250 0    50   ~ 0
-USB_DM
+USBD_N
 $Comp
 L power:VCC #PWR028
 U 1 1 5F36A26B
@@ -1473,9 +1473,9 @@ Wire Wire Line
 Wire Wire Line
 	5900 2950 5800 2950
 Text Label 3500 6450 2    50   ~ 0
-USB_DP
+USBD_P
 Text Label 3500 6550 2    50   ~ 0
-USB_DM
+USBD_N
 Text Label 3700 6550 0    50   ~ 0
 PA11
 Wire Wire Line
@@ -1537,9 +1537,9 @@ F 3 "~" H 6150 4650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Notes Line
-	7350 550  7350 4150
+	8950 550  8950 4150
 Wire Notes Line
-	7350 3150 9500 3150
+	8950 3100 11100 3100
 Text Label 10800 1050 1    50   ~ 0
 PA[0..15]
 Entry Wire Line
@@ -1768,12 +1768,77 @@ Text Label 3700 6350 0    50   ~ 0
 PB3
 Wire Wire Line
 	3500 6350 3700 6350
+$Comp
+L Connector_Generic:Conn_02x05_Odd_Even J6
+U 1 1 5F0B7BD0
+P 8200 1400
+F 0 "J6" H 8250 2017 50  0000 C CNN
+F 1 "Conn_02x05 Odd_Even" H 8250 1926 50  0000 C CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" H 8200 1400 50  0001 C CNN
+F 3 "~" H 8200 1400 50  0001 C CNN
+	1    8200 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR032
+U 1 1 5F0B9176
+P 7750 1050
+F 0 "#PWR032" H 7750 900 50  0001 C CNN
+F 1 "VCC" H 7765 1223 50  0000 C CNN
+F 2 "" H 7750 1050 50  0001 C CNN
+F 3 "" H 7750 1050 50  0001 C CNN
+	1    7750 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7750 1050 7750 1200
+Wire Wire Line
+	7750 1200 8000 1200
+$Comp
+L power:GND #PWR031
+U 1 1 5F0C95E8
+P 7650 1850
+F 0 "#PWR031" H 7650 1600 50  0001 C CNN
+F 1 "GND" H 7655 1677 50  0000 C CNN
+F 2 "" H 7650 1850 50  0001 C CNN
+F 3 "" H 7650 1850 50  0001 C CNN
+	1    7650 1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7650 1300 8000 1300
+Wire Wire Line
+	8000 1400 7650 1400
+Wire Wire Line
+	7650 1300 7650 1400
+Connection ~ 7650 1400
+NoConn ~ 8000 1500
+Wire Wire Line
+	8000 1600 7650 1600
+Wire Wire Line
+	7650 1400 7650 1600
+Connection ~ 7650 1600
+Wire Wire Line
+	7650 1600 7650 1850
+Text Label 8500 1200 0    50   ~ 0
+SWDIO
+Text Label 8500 1300 0    50   ~ 0
+SWDCLK
+Text Label 8500 1400 0    50   ~ 0
+SWO
+Text Label 8500 1600 0    50   ~ 0
+RST
+NoConn ~ 8500 1500
+Text Label 6050 3150 0    50   ~ 0
+USB_P
+Text Label 6050 3250 0    50   ~ 0
+USB_N
 Wire Bus Line
-	2850 3000 2850 4600
-Wire Bus Line
-	750  3000 750  4600
+	9200 1050 9200 2650
 Wire Bus Line
 	10800 1050 10800 2650
 Wire Bus Line
-	9200 1050 9200 2650
+	750  3000 750  4600
+Wire Bus Line
+	2850 3000 2850 4600
 $EndSCHEMATC
