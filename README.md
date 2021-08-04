@@ -84,10 +84,19 @@ Inside each sub page, one per functional component:
 
 Good rules indicate to have all the conectors on the main page, but on this project we search to have a library of schematics ready to use, so it is better to have the required connectors on the same page of the functionality.
 
+## Status of Boards
+
+|Family|Line|Board|Status|
+|:--|:--|:--|:--|
+|F1|STM32F103|STM32F103C8T8|Not implemented, tested old version|
+|G0|STM32G051|STM32G051C8U6|Only in design phase|
+
 
 ## Change Log
 
 * 25/05/2021 Initial Commits
   * Copy STM32F103 Devel Board from Digital Trains
-* 03/08/2021 Re-Structuration
+* 04/08/2021 Re-Structuration
   * Creation of the structure of folders
+  * Update Kicad to sub-pages
+  * Added STM32G051
