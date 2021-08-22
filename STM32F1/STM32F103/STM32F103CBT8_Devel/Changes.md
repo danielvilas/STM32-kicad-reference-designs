@@ -17,3 +17,4 @@ Issues to resolve
   * [X] Relocate Mount Holes
   * [X] Relocate PB y PA 
   * [X] Use JTAG-10p 1.27
+* [x] Use dip sw to BootX pins

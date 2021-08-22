@@ -1062,7 +1062,7 @@ Connection ~ 9000 1350
 Text Notes 550  600  0    50   ~ 0
 Main Section
 Text Notes 600  5850 0    50   ~ 0
-Compatible Chips:\n* STM32F103CBT8
+Compatible Chips:\n* STM32F103CBT8\n* STM32F103C8T8
 Text Notes 3400 600  0    50   ~ 0
 Debug SWD
 Wire Notes Line
