@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+STM32F0/STM32F030/Firmware/.vscode/c_cpp_properties.json
+STM32F0/STM32F030/Firmware/.vscode/extensions.json
+STM32F0/STM32F030/Firmware/.vscode/launch.json

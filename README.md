@@ -88,6 +88,7 @@ Good rules indicate to have all the conectors on the main page, but on this proj
 
 |Family|Line|Board|Status|
 |:--|:--|:--|:--|
+|F0|STM32F030|STM32F030K6T6|Not implemented, tested old version|
 |F1|STM32F103|STM32F103C8T8|Not implemented, tested old version|
 |G0|STM32G051|STM32G051C8U6|Only in design phase|
 

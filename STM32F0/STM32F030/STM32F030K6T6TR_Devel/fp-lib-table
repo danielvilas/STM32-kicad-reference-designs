@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name STM32103_Devel)(type KiCad)(uri ${KIPRJMOD}/lib/STM32103_Devel.pretty)(options "")(descr ""))
+)

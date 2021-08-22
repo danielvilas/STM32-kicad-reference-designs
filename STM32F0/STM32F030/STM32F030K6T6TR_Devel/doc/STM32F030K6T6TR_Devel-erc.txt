@@ -1,0 +1,13 @@
+ERC report (Sun Aug 22 18:31:51 2021, Encoding UTF8 )
+
+***** Sheet /
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(125.73 mm, 95.25 mm): Pin 5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(125.73 mm, 85.09 mm): Pin 1 (Passive) of component J1 is unconnected.
+
+***** Sheet /STM32F030K6/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(121.92 mm, 55.88 mm): Pin 1 (Power input) of component #PWR030 is not driven (Net 30).
+
+ ** ERC messages: 3  Errors 0  Warnings 3

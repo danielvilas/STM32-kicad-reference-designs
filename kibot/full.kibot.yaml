@@ -1,0 +1,186 @@
+kibot:
+  version: 1
+
+global:
+  kiauto_time_out_scale: 25.0
+  kiauto_wait_start: 10
+preflight:
+  run_erc: true
+  erc_warnings: false
+  update_xml: false
+  run_drc: true
+  check_zone_fills: true
+  ignore_unconnected: false
+
+outputs:
+  - name: 'boardview_example'
+    comment: 'Exports the PCB in board view format.'
+    type: 'boardview'
+    dir: ''
+    options:
+      output: '%f-%i%v.%x'
+
+  - name: 'ibom_example'
+    comment: 'Generates an interactive web page useful to identify the position of the components in the PCB.'
+    type: 'ibom'
+    dir: ''
+    options:
+      blacklist: ''
+      blacklist_empty_val: false
+      board_rotation: 0
+      bom_view: 'left-right'
+      checkboxes: 'Sourced,Placed'
+      dark_mode: false
+      dnf_filter: ''
+      dnp_field: ''
+      extra_fields: ''
+      hide_pads: false
+      hide_silkscreen: false
+      highlight_pin1: false
+      include_nets: false
+      include_tracks: false
+      layer_view: 'FB'
+      name_format: 'ibom'
+      netlist_file: ''
+      no_blacklist_virtual: false
+      no_redraw_on_drag: false
+      normalize_field_case: false
+      output: '%f-%i%v.%x'
+      show_fabrication: false
+      sort_order: 'C,R,L,D,U,Y,X,F,SW,A,~,HS,CNN,J,P,NT,MH'
+      variant: ''
+      variant_field: ''
+      variants_blacklist: ''
+      variants_whitelist: ''
+  - name: JLCPCB_gerbers
+    comment: Gerbers compatible with JLCPCB
+    type: gerber
+    dir: JLCPCB
+    options: &gerber_options
+      exclude_edge_layer: true
+      exclude_pads_from_silkscreen: true
+      plot_sheet_reference: false
+      plot_footprint_refs: true
+      plot_footprint_values: false
+      force_plot_invisible_refs_vals: false
+      tent_vias: true
+      use_protel_extensions: false
+      create_gerber_job_file: false
+      disable_aperture_macros: true
+      gerber_precision: 4.6
+      use_gerber_x2_attributes: false
+      use_gerber_net_attributes: false
+      line_width: 0.1
+      subtract_mask_from_silk: true
+    layers:
+      # Note: a more generic approach is to use 'copper' but then the filenames
+      # are slightly different.
+      - F.Cu
+      - B.Cu
+      - In1.Cu
+      - In2.Cu
+#      - In3.Cu
+#      - In4.Cu
+#      - In5.Cu
+#      - In6.Cu
+      - F.SilkS
+      - B.SilkS
+      - F.Mask
+      - B.Mask
+      - Edge.Cuts
+
+  - name: JLCPCB_drill
+    comment: Drill files compatible with JLCPCB
+    type: excellon
+    dir: JLCPCB
+    options:
+      pth_and_npth_single_file: false
+      pth_id: '-PTH'
+      npth_id: '-NPTH'
+      metric_units: false
+      output: "%f%i.%x"
+
+  - name: JLCPCB
+    comment: ZIP file for JLCPCB
+    type: compress
+    dir: JLCPCB
+    options:
+      files:
+        - from_output: JLCPCB_gerbers
+          dest: /
+        - from_output: JLCPCB_drill
+          dest: /
+  
+  - name: 'pdf_sch_print_example'
+    comment: 'Exports the PCB to the most common exhange format. Suitable for printing.'
+    type: 'pdf_sch_print'
+    dir: 'pdf'
+    options:
+      dnf_filter: ''
+      output: '%f-%i%v.%x'
+
+  - name: 'pdf_example'
+    comment: 'Exports the PCB to the most common exhange format. Suitable for printing.'
+    type: 'pdf'
+    dir: 'pdf'
+    options:
+      dnf_filter: ''
+      drill_marks: 'full'
+      edge_cut_extension: ''
+      exclude_edge_layer: true
+      exclude_pads_from_silkscreen: false
+      force_plot_invisible_refs_vals: false
+      inner_extension_pattern: ''
+      line_width: 0.1
+      mirror_plot: false
+      negative_plot: false
+      output: '%f-%i%v.%x'
+      plot_footprint_refs: true
+      plot_footprint_values: true
+      plot_sheet_reference: false
+      tent_vias: true
+      uppercase_extensions: false
+    layers: all
+
+  - name: 'step_example'
+    comment: 'Exports the PCB as a 3D model.'
+    type: 'step'
+    dir: ''
+    options:
+      dnf_filter: ''
+      download: true
+      kicad_3d_url: 'https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/'
+      metric_units: true
+      min_distance: -1
+      no_virtual: false
+      origin: 'grid'
+      output: '%f-%i%v.%x'
+  - name: 'pcbdraw_example'
+    comment: 'Exports the PCB as a 2D model (SVG, PNG or JPG).'
+    type: 'pcbdraw'
+    dir: ''
+    options:
+      bottom: false
+      dnf_filter: ''
+      dpi: 300
+      format: 'svg'
+      highlight: []
+      libs: []
+      mirror: false
+      no_drillholes: false
+      output: '%f-%i%v.%x'
+      placeholder: false
+      remap:
+      show_components: none
+      style:
+        board: '#4ca06c'
+        clad: '#9c6b28'
+        copper: '#417e5a'
+        highlight_on_top: false
+        highlight_padding: 1.5
+        highlight_style: 'stroke:none;fill:#ff0000;opacity:0.5;'
+        outline: '#000000'
+        pads: '#b5ae30'
+        silk: '#f0f0f0'
+        vcut: '#bf2600'
+      warnings: 'visible'
