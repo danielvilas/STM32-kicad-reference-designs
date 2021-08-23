@@ -1,8 +1,0 @@
-** Drc report for /home/daniel/Ohs/STM32-kicad-reference-designs/STM32F0/STM32F030/STM32F030K6T6TR_Devel/STM32F030K6T6TR_Devel.kicad_pcb **
-** Created on 2021-08-22 18:32:12 **
-
-** Found 0 DRC errors **
-
-** Found 0 unconnected pads **
-
-** End of Report **

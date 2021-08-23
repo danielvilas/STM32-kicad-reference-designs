@@ -1,0 +1,56 @@
+kibot:
+  version: 1
+
+preflight:
+  run_erc: false
+  erc_warnings: false
+  update_xml: false
+  run_drc: false
+  check_zone_fills: false
+  ignore_unconnected: false
+
+outputs:
+
+  - name: 'step'
+    comment: 'Exports the PCB as a 3D model.'
+    type: 'step'
+    dir: ''
+    options:
+      dnf_filter: ''
+      download: true
+      kicad_3d_url: 'https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/'
+      metric_units: true
+      min_distance: -1
+      no_virtual: false
+      origin: 'grid'
+      output: '%f-%i%v.%x'
+
+  - name: 'pcbdraw'
+    comment: 'Exports the PCB as a 2D model (SVG, PNG or JPG).'
+    type: 'pcbdraw'
+    dir: ''
+    options:
+      bottom: false
+      dnf_filter: ''
+      dpi: 300
+      format: 'png'
+      highlight: []
+      libs: []
+      mirror: false
+      no_drillholes: false
+      output: '%f-%i%v.%x'
+      placeholder: false
+ #     remap:
+ #     show_components: none
+      style:
+        board: '#4ca06c'
+        clad: '#9c6b28'
+        copper: '#417e5a'
+        highlight_on_top: false
+        highlight_padding: 1.5
+        highlight_style: 'stroke:none;fill:#ff0000;opacity:0.5;'
+        outline: '#000000'
+        pads: '#b5ae30'
+        silk: '#f0f0f0'
+        vcut: '#bf2600'
+      warnings: 'visible'

@@ -1,0 +1,42 @@
+kibot:
+  version: 1
+
+preflight:
+  run_erc: false
+  erc_warnings: false
+  update_xml: false
+  run_drc: false
+  check_zone_fills: false
+  ignore_unconnected: false
+
+outputs:
+  - name: 'pdf_sch'
+    comment: 'Exports the Schematic to the most common exhange format. Suitable for printing.'
+    type: 'pdf_sch_print'
+    dir: 'pdf'
+    options:
+      dnf_filter: ''
+      output: '%f-%i%v.%x'
+
+  - name: 'pdf_pcb'
+    comment: 'Exports the PCB to the most common exhange format. Suitable for printing.'
+    type: 'pdf'
+    dir: 'pdf'
+    options:
+      dnf_filter: ''
+      drill_marks: 'full'
+      edge_cut_extension: ''
+      exclude_edge_layer: true
+      exclude_pads_from_silkscreen: false
+      force_plot_invisible_refs_vals: false
+      inner_extension_pattern: ''
+      line_width: 0.1
+      mirror_plot: false
+      negative_plot: false
+      output: '%f-%i%v.%x'
+      plot_footprint_refs: true
+      plot_footprint_values: true
+      plot_sheet_reference: false
+      tent_vias: true
+      uppercase_extensions: false
+    layers: all

@@ -1,0 +1,52 @@
+kibot:
+  version: 1
+
+preflight:
+  run_erc: false
+  erc_warnings: false
+  update_xml: false
+  run_drc: false
+  check_zone_fills: false
+  ignore_unconnected: false
+
+outputs:
+  - name: 'boardview'
+    comment: 'Exports the PCB in board view format.'
+    type: 'boardview'
+    dir: ''
+    options:
+      output: '%f-%i%v.%x'
+
+  - name: 'ibom'
+    comment: 'Generates an interactive web page useful to identify the position of the components in the PCB.'
+    type: 'ibom'
+    dir: ''
+    options:
+      blacklist: ''
+      blacklist_empty_val: false
+      board_rotation: 0
+      bom_view: 'left-right'
+      checkboxes: 'Sourced,Placed'
+      dark_mode: false
+      dnf_filter: ''
+      dnp_field: ''
+      extra_fields: ''
+      hide_pads: false
+      hide_silkscreen: false
+      highlight_pin1: false
+      include_nets: false
+      include_tracks: false
+      layer_view: 'FB'
+      name_format: 'ibom'
+      netlist_file: ''
+      no_blacklist_virtual: false
+      no_redraw_on_drag: false
+      normalize_field_case: false
+      output: '%f-%i%v.%x'
+      show_fabrication: false
+      sort_order: 'C,R,L,D,U,Y,X,F,SW,A,~,HS,CNN,J,P,NT,MH'
+      variant: ''
+      variant_field: ''
+      variants_blacklist: ''
+      variants_whitelist: ''
+ 

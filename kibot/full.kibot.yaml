@@ -1,15 +1,12 @@
 kibot:
   version: 1
 
-global:
-  kiauto_time_out_scale: 25.0
-  kiauto_wait_start: 10
 preflight:
-  run_erc: true
+  run_erc: false
   erc_warnings: false
   update_xml: false
-  run_drc: true
-  check_zone_fills: true
+  run_drc: false
+  check_zone_fills: false
   ignore_unconnected: false
 
 outputs:
