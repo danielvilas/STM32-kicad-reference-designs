@@ -269,104 +269,38 @@ OSC_OUT
 Wire Notes Line
 	3350 500  3350 5600
 $Comp
-L Connector_Generic:Conn_02x10_Odd_Even J?
-U 1 1 612C8F68
-P 4350 1500
-AR Path="/612C8F68" Ref="J?"  Part="1" 
-AR Path="/6115F145/612C8F68" Ref="J3"  Part="1" 
-F 0 "J3" H 4400 2117 50  0000 C CNN
-F 1 "Conn_02x10_Odd_Even" H 4400 2026 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" H 4350 1500 50  0001 C CNN
-F 3 "~" H 4350 1500 50  0001 C CNN
-	1    4350 1500
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR?
 U 1 1 612C8F6E
-P 4800 2200
+P 3700 1450
 AR Path="/612C8F6E" Ref="#PWR?"  Part="1" 
 AR Path="/6115F145/612C8F6E" Ref="#PWR030"  Part="1" 
-F 0 "#PWR030" H 4800 1950 50  0001 C CNN
-F 1 "GND" H 4805 2027 50  0000 C CNN
-F 2 "" H 4800 2200 50  0001 C CNN
-F 3 "" H 4800 2200 50  0001 C CNN
-	1    4800 2200
+F 0 "#PWR030" H 3700 1200 50  0001 C CNN
+F 1 "GND" H 3705 1277 50  0000 C CNN
+F 2 "" H 3700 1450 50  0001 C CNN
+F 3 "" H 3700 1450 50  0001 C CNN
+	1    3700 1450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4650 1200 4800 1200
+	4300 1250 4300 1050
 Wire Wire Line
-	4800 1200 4800 1300
-Wire Wire Line
-	4650 1100 4800 1100
-Wire Wire Line
-	4800 1100 4800 900 
-Wire Wire Line
-	3900 1100 3900 900 
-Wire Wire Line
-	4650 1300 4800 1300
-Connection ~ 4800 1300
-Wire Wire Line
-	4800 1300 4800 1400
-Wire Wire Line
-	4650 1400 4800 1400
-Connection ~ 4800 1400
-Wire Wire Line
-	4650 1500 4800 1500
-Wire Wire Line
-	4800 1400 4800 1500
-Connection ~ 4800 1500
-Wire Wire Line
-	4800 1500 4800 1600
-Connection ~ 4800 1600
-Wire Wire Line
-	4800 1600 4800 1700
-Wire Wire Line
-	4650 1600 4800 1600
-Wire Wire Line
-	4650 1700 4800 1700
-Connection ~ 4800 1700
-Wire Wire Line
-	4800 1700 4800 1800
-Wire Wire Line
-	4650 1800 4800 1800
-Connection ~ 4800 1800
-Wire Wire Line
-	4800 1800 4800 1900
-Wire Wire Line
-	4650 1900 4800 1900
-Connection ~ 4800 1900
-Wire Wire Line
-	4800 1900 4800 2000
-Wire Wire Line
-	4650 2000 4800 2000
-Connection ~ 4800 2000
-Wire Wire Line
-	4800 2000 4800 2200
-Wire Wire Line
-	3900 1100 4150 1100
-NoConn ~ 4150 1200
-NoConn ~ 4150 1300
-NoConn ~ 4150 1600
-NoConn ~ 4150 1900
-NoConn ~ 4150 2000
-Text Label 3850 1800 2    50   ~ 0
+	4300 1250 4550 1250
+Text Label 4250 1650 2    50   ~ 0
 RST
 Wire Wire Line
-	3850 1800 4150 1800
-Text Label 3850 1500 2    50   ~ 0
+	4250 1650 4550 1650
+Text Label 4250 1350 2    50   ~ 0
 SWDCLK
-Text Label 3850 1400 2    50   ~ 0
+Text Label 4250 1550 2    50   ~ 0
 SWDIO
 Wire Wire Line
-	3850 1400 4150 1400
+	4250 1550 4550 1550
 Wire Wire Line
-	4150 1500 3850 1500
-Text Label 3850 1700 2    50   ~ 0
+	4550 1350 4250 1350
+Text Label 4250 1750 2    50   ~ 0
 SWO
 Wire Wire Line
-	3850 1700 4150 1700
+	4250 1750 4550 1750
 $Comp
 L Connector_Generic:Conn_02x05_Odd_Even J?
 U 1 1 612C8FAB
@@ -375,7 +309,7 @@ AR Path="/612C8FAB" Ref="J?"  Part="1"
 AR Path="/6115F145/612C8FAB" Ref="J6"  Part="1" 
 F 0 "J6" H 6150 2117 50  0000 C CNN
 F 1 "Conn_02x05 Odd_Even" H 6150 2026 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" H 6100 1500 50  0001 C CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 6100 1500 50  0001 C CNN
 F 3 "~" H 6100 1500 50  0001 C CNN
 	1    6100 1500
 	1    0    0    -1  
@@ -729,9 +663,7 @@ Text Label 7500 1250 2    50   ~ 0
 _VCC
 Text Label 5650 1150 2    50   ~ 0
 _VCC
-Text Label 4800 900  0    50   ~ 0
-_VCC
-Text Label 3900 900  2    50   ~ 0
+Text Label 4300 1050 2    50   ~ 0
 _VCC
 Text HLabel 7800 700  0    50   Input ~ 0
 VCC
@@ -883,4 +815,17 @@ F 3 "~" H 7300 3550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 7300 3550
+$Comp
+L Connector_Generic:Conn_01x06 J3
+U 1 1 61316A9B
+P 4750 1450
+F 0 "J3" H 4830 1442 50  0000 L CNN
+F 1 "Conn_01x06" H 4830 1351 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 4750 1450 50  0001 C CNN
+F 3 "~" H 4750 1450 50  0001 C CNN
+	1    4750 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 1450 4550 1450
 $EndSCHEMATC

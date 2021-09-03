@@ -15,11 +15,11 @@ The firmware only blinks a led, toggling it every 1 second and prints on the ser
 Environments:
 |name|description|notes|
 |:--|:--|:--|
-|STM32F103_Devel| Board STM32F103CBT8_Devel| Uses Serial USB. Led on PB5. Based on generic board|
-|NUCLEO-F103RB| Nucelo Board| Uses Serial throught debug chip|
+|STM32F030K6T6TR_Devel| Board STM32F030K6T6TR_Devel| Custom Board|
+|STM32F030_Devel_generic| Code for the generic board config file | Without HSE, all defines needed to work with STM32F030K6T6TR_Devel |
 
 ## Compatibility
 General compatibility with all STM32F lines. Not tested
 
 ## Current Status
-This board has not been implemented. Was tested a previous board. this boards is an evolution with the changes:
+Tested, but need update

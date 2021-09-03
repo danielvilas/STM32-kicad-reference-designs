@@ -20,10 +20,22 @@ The Folders under this repository are defined to follow this standard:
 |   |   ├──[CHIP]_[Board]
 |   |   |  └──[*] Kicad Project
 |   |   └──README.MD
+│   ├── [LINE] Other line 
+|   |   └── ...
+|   ...  
+│   └──PlatformIo
+│       ├──install.sh
+│       ├──[Board].json
+|       ├──[variantn].h
+|       ├──[variantn].cpp
+|       └── ... More boards and variants
+└──[FAMILY] Other family
+├──... More families
 ...
 
 ```
 The folder estructure is based on the STM32 organization of theirs chips, this are based on families and lines. This relates to the name of the chip having the code `STM32FFLLCCCC'  where F is the FamiliyCode, L the line and C the chip code.
+
 
 |Terms|Descritpion|examples|
 |:--|:--|:--|
@@ -33,6 +45,8 @@ The folder estructure is based on the STM32 organization of theirs chips, this a
 |Firmware| Platform.io project for all boards on this family. Create envorinments for each| see notes|
 |`[CHIP]_[BOARD]`| Kicad Project of board | see notes|
 |README.md| each line should have it's own document to explay all the boards, what the firmware does, and the compatible chips (testeds)|
+|PlatformIo|On this folder must be all the files to install the boards in PlatformIo.|b|
+
 
 ### Chip compatibility
 By default, and as far it is indicated by ST, all the chips with the same package are interchangeables, at least at pcb level. That means that the power pins are on the same posititions and the same for the io ones.
@@ -88,7 +102,7 @@ Good rules indicate to have all the conectors on the main page, but on this proj
 
 |Family|Line|Board|Status|
 |:--|:--|:--|:--|
-|F0|STM32F030|STM32F030K6T6|Not implemented, tested old version|
+|F0|STM32F030|STM32F030K6T6|tested, updated needed|
 |F1|STM32F103|STM32F103C8T8|Not implemented, tested old version|
 |G0|STM32G051|STM32G051C8U6|Only in design phase|
 
@@ -101,3 +115,6 @@ Good rules indicate to have all the conectors on the main page, but on this proj
   * Creation of the structure of folders
   * Update Kicad to sub-pages
   * Added STM32G051
+* 03/09/2021 Added F030
+  * Added an F030
+  * Created Files for board integration on pio

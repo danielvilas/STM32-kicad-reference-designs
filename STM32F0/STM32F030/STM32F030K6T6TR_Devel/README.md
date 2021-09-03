@@ -1,7 +1,7 @@
 # STM32F103 Devel Board
 STM32F103 Board for development with STM32F103CB chip. The intention of this project is to have my own basic board for this chip in order to design custom boards which use the STM32103CB chip.
 
-![alt text](STM32103_Devel.png)
+![alt text](doc/STM32F030K6T6TR_Devel-top.png)
 
 ## Board specs:
 * CHIP STM32F103CBT6
@@ -13,7 +13,7 @@ STM32F103 Board for development with STM32F103CB chip. The intention of this pro
   * LSE Clokc: 32.768KHz
 * Ports:
   * USB Port
-  * SWD 20 pins 2.54
+  * SWD 6 pins 2.54
   * SWD 10 pins 1.27
   * PortA and PortB 16 pins 2.54
 * 3.3V Regulator:
