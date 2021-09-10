@@ -745,22 +745,22 @@ Text Label 4800 3450 2    50   ~ 0
 f_RXD
 Text Label 4800 3350 2    50   ~ 0
 f_DTR
-Text Label 4550 2700 2    50   ~ 0
+Text Label 4300 900  2    50   ~ 0
 f_RXD
-Text Label 4550 2800 2    50   ~ 0
+Text Label 4300 1000 2    50   ~ 0
 f_TXD
-Text Label 4950 2700 0    50   ~ 0
+Text Label 5600 900  0    50   ~ 0
 PA9
-Text Label 4950 2800 0    50   ~ 0
+Text Label 5600 1000 0    50   ~ 0
 PA10
-Text Label 4750 2700 0    50   ~ 0
-TX
-Text Label 4750 2800 0    50   ~ 0
-RX
+Text Label 5300 900  0    50   ~ 0
+bootTX
+Text Label 5300 1000 0    50   ~ 0
+bootRX
 Wire Wire Line
-	4550 2700 4950 2700
+	5200 900  5600 900 
 Wire Wire Line
-	4550 2800 4950 2800
+	5200 1000 5600 1000
 Wire Wire Line
 	4950 3350 4800 3350
 Wire Wire Line
@@ -891,6 +891,28 @@ Wire Wire Line
 	5000 4900 5000 4800
 NoConn ~ 4800 3750
 NoConn ~ 4800 3350
+Wire Notes Line
+	3900 700  3900 2000
+Wire Notes Line
+	3900 2000 5950 2000
+Wire Notes Line
+	5950 2000 5950 700 
+Wire Notes Line
+	5950 700  3900 700 
+Text Notes 4050 1900 0    50   ~ 0
+BootLoader (boot0 = 1):\nTX = PA9\nRX = PA10\n\nUART1 default pins:\nTX = PA2\nRX = PA3\n\nLiving la vida loca...
+Text Label 4500 900  0    50   ~ 0
+TX
+Text Label 4500 1000 0    50   ~ 0
+RX
+Wire Wire Line
+	4300 900  4700 900 
+Wire Wire Line
+	4300 1000 4700 1000
+Text Label 4700 900  0    50   ~ 0
+PA2
+Text Label 4700 1000 0    50   ~ 0
+PA3
 Wire Bus Line
 	1250 4100 1250 5700
 Wire Bus Line

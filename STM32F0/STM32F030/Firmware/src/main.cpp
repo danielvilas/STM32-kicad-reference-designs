@@ -12,6 +12,12 @@ void setup()
 }
 
 void loop(){
+
+    while(SERIAL_OUT.available()>0){
+        int r = SERIAL_OUT.read();
+        SERIAL_OUT.write(r);
+    }
+
     SERIAL_OUT.println("Serial Monitor HIGH");
     digitalWrite(PIN_TEST_LED,HIGH);
     delay(1000);    
