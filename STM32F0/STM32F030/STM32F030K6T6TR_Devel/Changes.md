@@ -18,12 +18,11 @@ Changes from STM32F103 initial board
 * [x] Use dip sw to BootX pins
 ## Version 0.0.3 
 After Tested V.0.0.2
-* [ ] Serial on PA2/PA3
+* [x] Serial on PA2/PA3
 * [x] Remove big SWD port
 * [x] Change SWD 1.27 for SMD
 * [x] Add SWD 6 pin connector
 * [ ] Identify Pins Funcions
-  * [ ] U\[S]ART
-  * [ ] I2c
-  * [ ] CAN
-  * [ ] SPI
+  * [x] U\[S]ART
+  * [x] I2c
+  * [x] SPI
