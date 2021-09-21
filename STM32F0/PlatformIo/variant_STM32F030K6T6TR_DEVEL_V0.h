@@ -10,8 +10,9 @@
  *
  *******************************************************************************
  */
+#if defined(ARDUINO_STM32F030K6T6TR_DEVEL_V0)
 #pragma once
-#if defined(ARDUINO_STM32F030K6T6TR_DEVEL)
+
 /*----------------------------------------------------------------------------
  *        STM32 pins number
  *----------------------------------------------------------------------------*/
@@ -88,10 +89,10 @@
 
 // I2C definitions
 #ifndef PIN_WIRE_SDA
-  #define PIN_WIRE_SDA          PA10
+  #define PIN_WIRE_SDA          PA3
 #endif
 #ifndef PIN_WIRE_SCL
-  #define PIN_WIRE_SCL          PA9
+  #define PIN_WIRE_SCL          PA2
 #endif
 
 // Timer Definitions
@@ -111,10 +112,10 @@
 // Default pin used for generic 'Serial' instance
 // Mandatory for Firmata
 #ifndef PIN_SERIAL_RX
-  #define PIN_SERIAL_RX         PA3
+  #define PIN_SERIAL_RX         PA10
 #endif
 #ifndef PIN_SERIAL_TX
-  #define PIN_SERIAL_TX         PA2
+  #define PIN_SERIAL_TX         PA9
 #endif
 
 /*----------------------------------------------------------------------------
