@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name STM32)(type Legacy)(uri ${KIPRJMOD}/lib/STM32.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "STM32")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32F030K6T6TR_Devel-rescue")(type "KiCad")(uri "${KIPRJMOD}/STM32F030K6T6TR_Devel-rescue.kicad_sym")(options "")(descr ""))
 )
