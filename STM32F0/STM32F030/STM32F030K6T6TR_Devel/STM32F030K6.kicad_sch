@@ -3830,6 +3830,7 @@
 	)
 	(label "PA9"
 		(at 67.31 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3840,6 +3841,7 @@
 	)
 	(label "PA10"
 		(at 67.31 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3850,6 +3852,7 @@
 	)
 	(label "RST"
 		(at 36.83 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3860,6 +3863,7 @@
 	)
 	(label "RST"
 		(at 107.95 41.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3870,6 +3874,7 @@
 	)
 	(label "RST"
 		(at 162.56 43.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3880,6 +3885,7 @@
 	)
 	(label "PA6"
 		(at 67.31 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3890,6 +3896,7 @@
 	)
 	(label "BOOT1"
 		(at 130.81 107.95 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3900,6 +3907,7 @@
 	)
 	(label "PA14"
 		(at 67.31 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3910,6 +3918,7 @@
 	)
 	(label "PB7"
 		(at 34.29 86.36 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3920,6 +3929,7 @@
 	)
 	(label "PA12"
 		(at 67.31 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3930,6 +3940,7 @@
 	)
 	(label "PA4"
 		(at 67.31 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3940,6 +3951,7 @@
 	)
 	(label "PB2"
 		(at 135.89 107.95 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3950,6 +3962,7 @@
 	)
 	(label "PA2"
 		(at 67.31 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3960,6 +3973,7 @@
 	)
 	(label "SWO"
 		(at 107.95 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3970,6 +3984,7 @@
 	)
 	(label "PA0"
 		(at 67.31 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3980,6 +3995,7 @@
 	)
 	(label "SWDCLK"
 		(at 107.95 34.29 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3990,6 +4006,7 @@
 	)
 	(label "PB0"
 		(at 34.29 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4000,6 +4017,7 @@
 	)
 	(label "PA1"
 		(at 67.31 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4010,6 +4028,7 @@
 	)
 	(label "_VDDA"
 		(at 228.6 31.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4020,6 +4039,7 @@
 	)
 	(label "_VCC"
 		(at 205.74 17.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4030,6 +4050,7 @@
 	)
 	(label "_VCC"
 		(at 153.67 120.65 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4040,6 +4061,7 @@
 	)
 	(label "SWDCLK"
 		(at 162.56 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4050,6 +4072,7 @@
 	)
 	(label "RST"
 		(at 115.57 120.65 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4060,6 +4083,7 @@
 	)
 	(label "_VCC"
 		(at 109.22 26.67 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4070,6 +4094,7 @@
 	)
 	(label "PB1"
 		(at 34.29 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4080,6 +4105,7 @@
 	)
 	(label "SWDIO"
 		(at 107.95 39.37 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4090,6 +4116,7 @@
 	)
 	(label "PA14"
 		(at 156.21 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4100,6 +4127,7 @@
 	)
 	(label "BOOT0"
 		(at 110.49 81.28 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4110,6 +4138,7 @@
 	)
 	(label "OSC_IN"
 		(at 217.17 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4120,6 +4149,7 @@
 	)
 	(label "PB5"
 		(at 34.29 81.28 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4130,6 +4160,7 @@
 	)
 	(label "PA7"
 		(at 67.31 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4140,6 +4171,7 @@
 	)
 	(label "PA11"
 		(at 67.31 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4150,6 +4182,7 @@
 	)
 	(label "BOOT0"
 		(at 36.83 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4160,6 +4193,7 @@
 	)
 	(label "SWDIO"
 		(at 151.13 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4170,6 +4204,7 @@
 	)
 	(label "PA13"
 		(at 156.21 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4180,6 +4215,7 @@
 	)
 	(label "PA5"
 		(at 67.31 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4190,6 +4226,7 @@
 	)
 	(label "PB4"
 		(at 34.29 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4200,6 +4237,7 @@
 	)
 	(label "PB6"
 		(at 34.29 83.82 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4210,6 +4248,7 @@
 	)
 	(label "PA3"
 		(at 67.31 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4220,6 +4259,7 @@
 	)
 	(label "OSC_OUT"
 		(at 217.17 95.25 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4230,6 +4270,7 @@
 	)
 	(label "_VCC"
 		(at 143.51 29.21 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4240,6 +4281,7 @@
 	)
 	(label "_VDDA"
 		(at 63.5 40.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4250,6 +4292,7 @@
 	)
 	(label "_VCC"
 		(at 33.02 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4260,6 +4303,7 @@
 	)
 	(label "SWDIO"
 		(at 162.56 33.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4270,6 +4314,7 @@
 	)
 	(label "PB3"
 		(at 156.21 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4280,6 +4325,7 @@
 	)
 	(label "_VCC"
 		(at 190.5 31.75 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4290,6 +4336,7 @@
 	)
 	(label "PA13"
 		(at 67.31 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4300,6 +4347,7 @@
 	)
 	(label "OSC_IN"
 		(at 36.83 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4310,6 +4358,7 @@
 	)
 	(label "SWO"
 		(at 162.56 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4320,6 +4369,7 @@
 	)
 	(label "_VCC"
 		(at 151.13 74.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4330,6 +4380,7 @@
 	)
 	(label "PB3"
 		(at 34.29 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4340,6 +4391,7 @@
 	)
 	(label "OSC_OUT"
 		(at 36.83 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4350,6 +4402,7 @@
 	)
 	(label "PA15"
 		(at 67.31 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4360,6 +4413,7 @@
 	)
 	(label "PA8"
 		(at 67.31 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4370,6 +4424,7 @@
 	)
 	(label "SWO"
 		(at 151.13 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4380,6 +4435,7 @@
 	)
 	(label "SWDCLK"
 		(at 151.13 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4391,6 +4447,7 @@
 	(hierarchical_label "PF0"
 		(shape input)
 		(at 27.94 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4402,6 +4459,7 @@
 	(hierarchical_label "PA15"
 		(shape input)
 		(at 72.39 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4413,6 +4471,7 @@
 	(hierarchical_label "PF1"
 		(shape input)
 		(at 27.94 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4424,6 +4483,7 @@
 	(hierarchical_label "PB0"
 		(shape input)
 		(at 29.21 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4435,6 +4495,7 @@
 	(hierarchical_label "PB4"
 		(shape input)
 		(at 29.21 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4446,6 +4507,7 @@
 	(hierarchical_label "PB3"
 		(shape input)
 		(at 29.21 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4457,6 +4519,7 @@
 	(hierarchical_label "PB6"
 		(shape input)
 		(at 29.21 83.82 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4468,6 +4531,7 @@
 	(hierarchical_label "PA1"
 		(shape input)
 		(at 72.39 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4479,6 +4543,7 @@
 	(hierarchical_label "PA5"
 		(shape input)
 		(at 72.39 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4490,6 +4555,7 @@
 	(hierarchical_label "PA14"
 		(shape input)
 		(at 72.39 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4501,6 +4567,7 @@
 	(hierarchical_label "PA11"
 		(shape input)
 		(at 72.39 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4512,6 +4579,7 @@
 	(hierarchical_label "PA9"
 		(shape input)
 		(at 72.39 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4523,6 +4591,7 @@
 	(hierarchical_label "PA6"
 		(shape input)
 		(at 72.39 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4534,6 +4603,7 @@
 	(hierarchical_label "PA13"
 		(shape input)
 		(at 72.39 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4545,6 +4615,7 @@
 	(hierarchical_label "PB5"
 		(shape input)
 		(at 29.21 81.28 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4556,6 +4627,7 @@
 	(hierarchical_label "VCC"
 		(shape input)
 		(at 198.12 17.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4567,6 +4639,7 @@
 	(hierarchical_label "PA0"
 		(shape input)
 		(at 72.39 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4578,6 +4651,7 @@
 	(hierarchical_label "PB1"
 		(shape input)
 		(at 29.21 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4589,6 +4663,7 @@
 	(hierarchical_label "PA8"
 		(shape input)
 		(at 72.39 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4600,6 +4675,7 @@
 	(hierarchical_label "PA7"
 		(shape input)
 		(at 72.39 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4611,6 +4687,7 @@
 	(hierarchical_label "PA3"
 		(shape input)
 		(at 72.39 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4622,6 +4699,7 @@
 	(hierarchical_label "BOOT0"
 		(shape input)
 		(at 27.94 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4633,6 +4711,7 @@
 	(hierarchical_label "PA2"
 		(shape input)
 		(at 72.39 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4644,6 +4723,7 @@
 	(hierarchical_label "PA12"
 		(shape input)
 		(at 72.39 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4655,6 +4735,7 @@
 	(hierarchical_label "NRST"
 		(shape input)
 		(at 29.21 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4666,6 +4747,7 @@
 	(hierarchical_label "PA10"
 		(shape input)
 		(at 72.39 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4677,6 +4759,7 @@
 	(hierarchical_label "PA4"
 		(shape input)
 		(at 72.39 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4688,6 +4771,7 @@
 	(hierarchical_label "PB7"
 		(shape input)
 		(at 29.21 86.36 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4758,10 +4842,6 @@
 					(reference "#PWR04")
 					(unit 1)
 				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4825,10 +4905,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "#PWR05")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -4897,6 +4973,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 57.15 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C104J5RAC7800"
+			(at 57.15 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "340af8ca-25fb-4c67-83d9-44eb3d62614b")
 		)
@@ -4907,10 +5001,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C7")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -4979,6 +5069,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 44.45 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C104J5RAC7800"
+			(at 44.45 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f068864-6ad0-4502-8372-dd349171c113")
 		)
@@ -4989,10 +5097,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C6")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -5056,10 +5160,6 @@
 		)
 		(instances
 			(project "STM32F030K6T6TR_Devel"
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#FLG0103")
-					(unit 1)
-				)
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "#FLG0103")
 					(unit 1)
@@ -5121,6 +5221,24 @@
 			)
 		)
 		(property "LCSC" "C88446"
+			(at 52.07 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 52.07 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "STM32F030K6T6TR"
 			(at 52.07 66.04 0)
 			(effects
 				(font
@@ -5227,10 +5345,6 @@
 		)
 		(instances
 			(project "STM32F030K6T6TR_Devel"
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "U1")
-					(unit 1)
-				)
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "U1")
 					(unit 1)
@@ -5302,6 +5416,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Abracon LLC"
+			(at 208.28 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "ABM3-8.000MHZ-B4Y-T"
+			(at 208.28 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1511e0d8-a8dd-48ca-9968-e2592b80b389")
 		)
@@ -5312,10 +5444,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "Y1")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "Y?")
 					(unit 1)
 				)
 			)
@@ -5382,6 +5510,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 198.12 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C200J5HAC7800"
+			(at 198.12 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb224dd0-2639-4cc6-97b9-fdca91814dfb")
 		)
@@ -5392,10 +5538,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C3")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -5462,6 +5604,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 198.12 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C200J5HAC7800"
+			(at 198.12 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2c6f06d-45e4-4ef5-8575-567348d2e784")
 		)
@@ -5472,10 +5632,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C2")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -5544,10 +5700,6 @@
 					(reference "#PWR01")
 					(unit 1)
 				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5613,10 +5765,6 @@
 					(reference "#PWR030")
 					(unit 1)
 				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5672,6 +5820,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Amphenol ICC (FCI)"
+			(at 154.94 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "20021121-00010C4LF"
+			(at 154.94 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3e821e1-6045-4862-87ec-7c4629d455fb")
 		)
@@ -5706,10 +5872,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "J6")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -5777,10 +5939,6 @@
 					(reference "#PWR031")
 					(unit 1)
 				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5828,6 +5986,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 140.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CTS Electrocomponents"
+			(at 140.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "CT2192LPST-ND"
 			(at 140.97 83.82 0)
 			(effects
 				(font
@@ -5920,6 +6096,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 121.92 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C104J5RAC7800"
+			(at 121.92 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b96d0522-393b-438e-a207-6d57f21fc3f8")
 		)
@@ -5930,10 +6124,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C11")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -6001,10 +6191,6 @@
 					(reference "#PWR011")
 					(unit 1)
 				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6062,6 +6248,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 133.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24d010cb-586b-4c6e-ae52-9303697c9be5")
 		)
@@ -6072,10 +6267,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "SW1")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -6141,10 +6332,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "#PWR014")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -6214,6 +6401,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Bourns Inc."
+			(at 118.11 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "CR0805-FX-1002ELF"
+			(at 118.11 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3d11a05-5b01-4109-b44b-bea0ac6d88c3")
 		)
@@ -6224,10 +6429,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "R1")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -6295,6 +6496,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Bourns Inc."
+			(at 142.24 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "CR0805-FX-1002ELF"
+			(at 142.24 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41f1bce9-d147-484e-827b-0dff6b2af9fe")
 		)
@@ -6305,10 +6524,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "R3")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -6360,6 +6575,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 120.65 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 120.65 36.83 0)
 			(effects
 				(font
@@ -6458,6 +6682,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 190.5 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C105J4REC7800"
+			(at 190.5 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e55b1a0-6015-4a65-a669-5afcbc51f8bd")
 		)
@@ -6468,10 +6710,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C9")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -6537,10 +6775,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "#PWR09")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -6609,6 +6843,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C103J5RAC7210"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7933f90c-6bdb-4b27-bf6a-2ebbb21790dd")
 		)
@@ -6619,10 +6871,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C12")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -6691,6 +6939,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 218.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C105J4REC7800"
+			(at 218.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62ec5657-9332-43d4-ad7a-60f4ac50d4d0")
 		)
@@ -6701,10 +6967,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C13")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -6773,6 +7035,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KEMET"
+			(at 228.6 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0805C103J5RAC7210"
+			(at 228.6 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2436fc21-590c-4ff1-843e-9dcdf16fd298")
 		)
@@ -6783,10 +7063,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "C15")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -6853,6 +7129,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "TDK Corporation"
+			(at 209.55 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "MLZ2012N100LT000"
+			(at 209.55 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50c7ef5b-74ce-45fe-be1c-b3cae054eb58")
 		)
@@ -6863,10 +7157,6 @@
 			(project "STM32F030K6T6TR_Devel"
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "L1")
-					(unit 1)
-				)
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "L?")
 					(unit 1)
 				)
 			)
@@ -6930,10 +7220,6 @@
 		)
 		(instances
 			(project "STM32F030K6T6TR_Devel"
-				(path "/b04ecac5-a717-428c-8b03-931f865883c0"
-					(reference "#FLG0101")
-					(unit 1)
-				)
 				(path "/b04ecac5-a717-428c-8b03-931f865883c0/00000000-0000-0000-0000-00006115f145"
 					(reference "#FLG0101")
 					(unit 1)
