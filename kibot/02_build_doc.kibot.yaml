@@ -13,14 +13,14 @@ outputs:
   - name: 'boardview'
     comment: 'Exports the PCB in board view format.'
     type: 'boardview'
-    dir: ''
+    #dir: ''
     options:
       output: '%f-%i%v.%x'
 
   - name: 'ibom'
     comment: 'Generates an interactive web page useful to identify the position of the components in the PCB.'
     type: 'ibom'
-    dir: ''
+    #dir: '.'
     options:
       blacklist: ''
       blacklist_empty_val: false

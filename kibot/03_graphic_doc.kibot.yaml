@@ -14,7 +14,7 @@ outputs:
   - name: 'step'
     comment: 'Exports the PCB as a 3D model.'
     type: 'step'
-    dir: ''
+    #dir: ''
     options:
       dnf_filter: ''
       download: true
@@ -28,7 +28,7 @@ outputs:
   - name: 'pcbdraw'
     comment: 'Exports the PCB as a 2D model (SVG, PNG or JPG).'
     type: 'pcbdraw'
-    dir: ''
+    #dir: ''
     options:
       bottom: false
       dnf_filter: ''
