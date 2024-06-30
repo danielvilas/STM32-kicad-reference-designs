@@ -1207,6 +1207,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 41.91 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mnp" ""
+			(at 41.91 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d5234a1c-8e0b-4fb5-89e3-93c4d0b74142")
 		)
@@ -1420,6 +1438,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Bourns Inc."
+			(at 53.34 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mnp" "CR0805-FX-1003ELF"
+			(at 53.34 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "362a6433-18b8-4888-b35e-d71561c58f64")
 		)
@@ -1554,6 +1590,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Bourns Inc."
+			(at 76.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mnp" ""
+			(at 76.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d6e8e983-4bfa-4c67-8298-c0eb2d47ac93")
 		)
@@ -1615,6 +1669,24 @@
 			)
 		)
 		(property "LCSC" "C17544"
+			(at 76.2 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bourns Inc."
+			(at 76.2 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mnp" ""
 			(at 76.2 53.34 0)
 			(effects
 				(font
@@ -1757,6 +1829,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Bourns Inc."
+			(at 68.58 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mnp" ""
+			(at 68.58 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dac6b2ef-4160-4965-84a9-e5d791d92851")
 		)
@@ -1816,7 +1906,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C2480"
+		(property "LCSC" "C2480"
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mnp" ""
 			(at 55.88 45.72 0)
 			(effects
 				(font
