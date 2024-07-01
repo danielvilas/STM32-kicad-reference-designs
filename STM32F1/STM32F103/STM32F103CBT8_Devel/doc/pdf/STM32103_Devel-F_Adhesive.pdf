@@ -325,6 +325,8 @@ endobj
 ["Footprint = Crystal_SMD_5032-2Pin_5.0x3.2mm"],
 ["Datasheet = ~"],
 ["LCSC = C115962"],
+["Manufacturer = Abracon LLC"],
+["mnp = ABM3-8.000MHZ-B4Y-T"],
 ["part = Crystal"],
 ]\);) >>
 >>
@@ -341,6 +343,8 @@ endobj
 ["Footprint = R_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C17513"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1001ELF"],
 ["part = R"],
 ]\);) >>
 >>
@@ -353,10 +357,12 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = Y2"],
-["Value = Crystal"],
+["Value = 32.768kHz"],
 ["Footprint = Crystal_SMD_3215-2Pin_3.2x1.5mm"],
 ["Datasheet = ~"],
 ["LCSC = C32346"],
+["Manufacturer = Abracon LLC"],
+["mnp = ABS07AIG-32.768KHZ-D-T"],
 ["part = Crystal"],
 ]\);) >>
 >>
@@ -373,6 +379,8 @@ endobj
 ["Footprint = CP_EIA-3216-18_Kemet-A"],
 ["Datasheet = ~"],
 ["LCSC = C7171"],
+["Manufacturer = Kemet"],
+["mnp = T491A106K010AT"],
 ["part = CP-Device"],
 ]\);) >>
 >>
@@ -389,6 +397,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C28323"],
+["Manufacturer = Kemet"],
+["mnp = C0805C105J4REC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -405,6 +415,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1785"],
+["Manufacturer = Kemet"],
+["mnp = C0805C100J5RACTU"],
 ["part = C"],
 ]\);) >>
 >>
@@ -421,6 +433,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C49678"],
+["Manufacturer = Kemet"],
+["mnp = C0805C104J5RAC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -437,6 +451,8 @@ endobj
 ["Footprint = R_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C17414"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1002ELF"],
 ["part = R"],
 ]\);) >>
 >>
@@ -453,6 +469,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C49678"],
+["Manufacturer = Kemet"],
+["mnp = C0805C104J5RAC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -469,6 +487,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C28323"],
+["Manufacturer = Kemet"],
+["mnp = C0805C105J4REC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -484,6 +504,8 @@ endobj
 ["Value = 100K"],
 ["Footprint = R_0805_2012Metric"],
 ["LCSC = C17407"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1003ELF"],
 ]\);) >>
 >>
 endobj
@@ -499,6 +521,8 @@ endobj
 ["Footprint = R_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C17414"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1002ELF"],
 ["part = R"],
 ]\);) >>
 >>
@@ -515,6 +539,8 @@ endobj
 ["Footprint = LED_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C2293"],
+["Manufacturer = W\\u00FCrth Elektronik"],
+["mnp = 150080BS75000"],
 ["part = LED"],
 ]\);) >>
 >>
@@ -531,6 +557,8 @@ endobj
 ["Footprint = R_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C17513"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1001ELF"],
 ["part = R"],
 ]\);) >>
 >>
@@ -547,6 +575,8 @@ endobj
 ["Footprint = R_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C17414"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1002ELF"],
 ["part = R"],
 ]\);) >>
 >>
@@ -563,6 +593,8 @@ endobj
 ["Footprint = SOT-223-3_TabPin2"],
 ["Datasheet = http://www.advanced-monolithic.com/pdf/ds1117.pdf", "http://www.advanced-monolithic.com/pdf/ds1117.pdf"],
 ["LCSC = C6186"],
+["Manufacturer = EVVO"],
+["mnp = AMS1117-3.3"],
 ["part = AMS1117-3.3"],
 ]\);) >>
 >>
@@ -594,6 +626,8 @@ endobj
 ["Footprint = R_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C17414"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1002ELF"],
 ["part = R"],
 ]\);) >>
 >>
@@ -610,6 +644,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1798"],
+["Manufacturer = Kemet"],
+["mnp = C0805C200J5HAC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -626,6 +662,8 @@ endobj
 ["Footprint = LED_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C2297"],
+["Manufacturer = W\\u00FCrth Elektronik"],
+["mnp = 150080GS75000"],
 ["part = LED"],
 ]\);) >>
 >>
@@ -641,6 +679,8 @@ endobj
 ["Value = 20"],
 ["Footprint = R_0805_2012Metric"],
 ["LCSC = C17544"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-20R0ELF"],
 ]\);) >>
 >>
 endobj
@@ -656,6 +696,8 @@ endobj
 ["Footprint = LED_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C84256"],
+["Manufacturer = W\\u00FCrth Elektronik"],
+["mnp = 150080RS75000"],
 ["part = LED"],
 ]\);) >>
 >>
@@ -672,6 +714,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1710"],
+["Manufacturer = Kemet"],
+["mnp = C0805C103J5RAC7210"],
 ["part = C"],
 ]\);) >>
 >>
@@ -688,6 +732,8 @@ endobj
 ["Footprint = LQFP-48_7x7mm_P0.5mm"],
 ["Datasheet = http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf", "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"],
 ["LCSC = C8304"],
+["Manufacturer = STM32F103CBT7"],
+["mnp = STM32F103CBT7"],
 ["part = STM32F103CBTx-MCU_ST_STM32F1"],
 ]\);) >>
 >>
@@ -704,6 +750,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1785"],
+["Manufacturer = Kemet"],
+["mnp = C0805C100J5RACTU"],
 ["part = C"],
 ]\);) >>
 >>
@@ -720,6 +768,8 @@ endobj
 ["Footprint = L_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1046"],
+["Manufacturer = TDK Corporation"],
+["mnp = MLZ2012N100LT000"],
 ["part = L"],
 ]\);) >>
 >>
@@ -734,7 +784,9 @@ endobj
 ["Reference designator = D4"],
 ["Value = ss14"],
 ["Footprint = D_SMA"],
-["LCSC =  C2480"],
+["LCSC = C2480"],
+["Manufacturer = onsemi"],
+["mnp = SS14"],
 ]\);) >>
 >>
 endobj
@@ -750,6 +802,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1798"],
+["Manufacturer = Kemet"],
+["mnp = C0805C200J5HAC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -766,6 +820,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C49678"],
+["Manufacturer = Kemet"],
+["mnp = C0805C104J5RAC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -782,6 +838,8 @@ endobj
 ["Footprint = CP_EIA-3216-18_Kemet-A"],
 ["Datasheet = ~"],
 ["LCSC = C7171"],
+["Manufacturer = Kemet"],
+["mnp = T491A106K010AT"],
 ["part = CP-Device"],
 ]\);) >>
 >>
@@ -798,6 +856,8 @@ endobj
 ["Footprint = L_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1046"],
+["Manufacturer = TDK Corporation"],
+["mnp = MLZ2012N100LT000"],
 ["part = L"],
 ]\);) >>
 >>
@@ -813,6 +873,8 @@ endobj
 ["Value = 1K5"],
 ["Footprint = R_0805_2012Metric"],
 ["LCSC = C4310"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-1501ELF"],
 ]\);) >>
 >>
 endobj
@@ -828,6 +890,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C49678"],
+["Manufacturer = Kemet"],
+["mnp = C0805C104J5RAC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -842,6 +906,9 @@ endobj
 ["Reference designator = J2"],
 ["Value = USB_B_Micro"],
 ["Footprint = USB_Micro-B_Wuerth_629105150521_CircularHoles"],
+["Manufacturer = W\\u00FCrth Elektronik"],
+["mnp = 629105150521"],
+["LCSC = C2894326"],
 ]\);) >>
 >>
 endobj
@@ -857,6 +924,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C1710"],
+["Manufacturer = Kemet"],
+["mnp = C0805C103J5RAC7210"],
 ["part = C"],
 ]\);) >>
 >>
@@ -872,6 +941,8 @@ endobj
 ["Value = 20"],
 ["Footprint = R_0805_2012Metric"],
 ["LCSC = C17544"],
+["Manufacturer = Bourns Inc."],
+["mnp = CR0805-FX-20R0ELF"],
 ]\);) >>
 >>
 endobj
@@ -887,6 +958,8 @@ endobj
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = ~"],
 ["LCSC = C49678"],
+["Manufacturer = Kemet"],
+["mnp = C0805C104J5RAC7800"],
 ["part = C"],
 ]\);) >>
 >>
@@ -947,6 +1020,9 @@ endobj
 ["Value = Conn_02x05 Odd_Even"],
 ["Footprint = PinHeader_2x05_P1.27mm_Vertical"],
 ["Datasheet = ~"],
+["Manufacturer = Amphenol ICC \\u0028FCI\\u0029"],
+["mnp = 20021121-00010C4LF"],
+["LCSC = C5632705"],
 ["part = Conn_02x05_Odd_Even"],
 ]\);) >>
 >>
@@ -961,6 +1037,9 @@ endobj
 ["Reference designator = SW2"],
 ["Value = SW_DIP_x02"],
 ["Footprint = SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin"],
+["Manufacturer = CTS Electrocomponents"],
+["mnp = CT2192LPST-ND"],
+["LCSC = C2921579"],
 ]\);) >>
 >>
 endobj
@@ -997,7 +1076,7 @@ endobj
 154 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20240630173955)
+/CreationDate (D:20240701113849)
 /Creator (PCBNEW)
 /Title (STM32103_Devel-F_Adhesive.pdf)
 >>
@@ -1455,10 +1534,10 @@ endobj
 xref
 0 157
 0000000000 65535 f 
-0000019251 00000 n 
+0000021579 00000 n 
 0000004452 00000 n 
 0000004569 00000 n 
-0000018682 00000 n 
+0000021010 00000 n 
 0000000015 00000 n 
 0000000419 00000 n 
 0000004590 00000 n 
@@ -1466,153 +1545,153 @@ xref
 0000005197 00000 n 
 0000005501 00000 n 
 0000005805 00000 n 
-0000006126 00000 n 
-0000006424 00000 n 
-0000006746 00000 n 
-0000007059 00000 n 
-0000007359 00000 n 
-0000007657 00000 n 
-0000007957 00000 n 
-0000008256 00000 n 
-0000008557 00000 n 
-0000008856 00000 n 
-0000009123 00000 n 
-0000009422 00000 n 
-0000009725 00000 n 
-0000010023 00000 n 
-0000010322 00000 n 
-0000010739 00000 n 
-0000011023 00000 n 
-0000011322 00000 n 
-0000011621 00000 n 
-0000011925 00000 n 
-0000012190 00000 n 
-0000012493 00000 n 
-0000012793 00000 n 
-0000013328 00000 n 
-0000013627 00000 n 
-0000013926 00000 n 
-0000014181 00000 n 
-0000014479 00000 n 
-0000014781 00000 n 
-0000015094 00000 n 
-0000015393 00000 n 
-0000015658 00000 n 
-0000015959 00000 n 
-0000016242 00000 n 
-0000016542 00000 n 
-0000016808 00000 n 
-0000017109 00000 n 
-0000017418 00000 n 
-0000017727 00000 n 
-0000018053 00000 n 
-0000018381 00000 n 
+0000006189 00000 n 
+0000006548 00000 n 
+0000006938 00000 n 
+0000007303 00000 n 
+0000007659 00000 n 
+0000008011 00000 n 
+0000008367 00000 n 
+0000008727 00000 n 
+0000009084 00000 n 
+0000009439 00000 n 
+0000009767 00000 n 
+0000010127 00000 n 
+0000010498 00000 n 
+0000010857 00000 n 
+0000011217 00000 n 
+0000011682 00000 n 
+0000011966 00000 n 
+0000012326 00000 n 
+0000012681 00000 n 
+0000013053 00000 n 
+0000013379 00000 n 
+0000013750 00000 n 
+0000014106 00000 n 
+0000014700 00000 n 
+0000015053 00000 n 
+0000015416 00000 n 
+0000015713 00000 n 
+0000016067 00000 n 
+0000016425 00000 n 
+0000016790 00000 n 
+0000017153 00000 n 
+0000017479 00000 n 
+0000017836 00000 n 
+0000018207 00000 n 
+0000018563 00000 n 
+0000018890 00000 n 
+0000019247 00000 n 
+0000019556 00000 n 
+0000019865 00000 n 
+0000020191 00000 n 
+0000020621 00000 n 
 0000000438 00000 n 
 0000000775 00000 n 
 0000000979 00000 n 
-0000023544 00000 n 
-0000023439 00000 n 
+0000025872 00000 n 
+0000025767 00000 n 
 0000001026 00000 n 
-0000021187 00000 n 
+0000023515 00000 n 
 0000001090 00000 n 
-0000021101 00000 n 
+0000023429 00000 n 
 0000001154 00000 n 
-0000021272 00000 n 
+0000023600 00000 n 
 0000001218 00000 n 
-0000021357 00000 n 
+0000023685 00000 n 
 0000001282 00000 n 
-0000023282 00000 n 
+0000025610 00000 n 
 0000001346 00000 n 
-0000022583 00000 n 
+0000024911 00000 n 
 0000001410 00000 n 
-0000023367 00000 n 
+0000025695 00000 n 
 0000001474 00000 n 
-0000019874 00000 n 
+0000022202 00000 n 
 0000001538 00000 n 
-0000019787 00000 n 
+0000022115 00000 n 
 0000001602 00000 n 
-0000020316 00000 n 
+0000022644 00000 n 
 0000001666 00000 n 
-0000019446 00000 n 
+0000021774 00000 n 
 0000001730 00000 n 
-0000022239 00000 n 
+0000024567 00000 n 
 0000001794 00000 n 
-0000020579 00000 n 
+0000022907 00000 n 
 0000001858 00000 n 
-0000020665 00000 n 
+0000022993 00000 n 
 0000001922 00000 n 
-0000022669 00000 n 
+0000024997 00000 n 
 0000001986 00000 n 
-0000022325 00000 n 
+0000024653 00000 n 
 0000002050 00000 n 
-0000020838 00000 n 
+0000023166 00000 n 
 0000002114 00000 n 
-0000022410 00000 n 
+0000024738 00000 n 
 0000002178 00000 n 
-0000022064 00000 n 
+0000024392 00000 n 
 0000002242 00000 n 
-0000023196 00000 n 
+0000025524 00000 n 
 0000002306 00000 n 
-0000022931 00000 n 
+0000025259 00000 n 
 0000002370 00000 n 
-0000022496 00000 n 
+0000024824 00000 n 
 0000002435 00000 n 
-0000020139 00000 n 
+0000022467 00000 n 
 0000002500 00000 n 
-0000020925 00000 n 
+0000023253 00000 n 
 0000002565 00000 n 
-0000022843 00000 n 
+0000025171 00000 n 
 0000002630 00000 n 
-0000020751 00000 n 
+0000023079 00000 n 
 0000002695 00000 n 
-0000019698 00000 n 
+0000022026 00000 n 
 0000002760 00000 n 
-0000023108 00000 n 
+0000025436 00000 n 
 0000002825 00000 n 
-0000020228 00000 n 
+0000022556 00000 n 
 0000002890 00000 n 
-0000021976 00000 n 
+0000024304 00000 n 
 0000002955 00000 n 
-0000021013 00000 n 
+0000023341 00000 n 
 0000003020 00000 n 
-0000020050 00000 n 
+0000022378 00000 n 
 0000003085 00000 n 
-0000019608 00000 n 
+0000021936 00000 n 
 0000003150 00000 n 
-0000019519 00000 n 
+0000021847 00000 n 
 0000003215 00000 n 
-0000021887 00000 n 
+0000024215 00000 n 
 0000003280 00000 n 
-0000022755 00000 n 
+0000025083 00000 n 
 0000003345 00000 n 
-0000020403 00000 n 
+0000022731 00000 n 
 0000003410 00000 n 
-0000021443 00000 n 
+0000023771 00000 n 
 0000003475 00000 n 
-0000019961 00000 n 
+0000022289 00000 n 
 0000003540 00000 n 
-0000022151 00000 n 
+0000024479 00000 n 
 0000003605 00000 n 
-0000020491 00000 n 
+0000022819 00000 n 
 0000003670 00000 n 
-0000021709 00000 n 
+0000024037 00000 n 
 0000003735 00000 n 
-0000021620 00000 n 
+0000023948 00000 n 
 0000003800 00000 n 
-0000021531 00000 n 
+0000023859 00000 n 
 0000003865 00000 n 
-0000021798 00000 n 
+0000024126 00000 n 
 0000003930 00000 n 
-0000023019 00000 n 
+0000025347 00000 n 
 0000003995 00000 n 
 0000004103 00000 n 
 0000004219 00000 n 
 0000004332 00000 n 
-0000019311 00000 n 
-0000023645 00000 n 
-0000023730 00000 n 
+0000021639 00000 n 
+0000025973 00000 n 
+0000026058 00000 n 
 trailer
 << /Size 157 /Root 156 0 R /Info 154 0 R >>
 startxref
-23873
+26201
 %%EOF

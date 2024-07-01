@@ -413,7 +413,7 @@
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
       "missing_unit": "warning",
-      "multiple_net_names": "warning",
+      "multiple_net_names": "ignore",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
@@ -697,7 +697,7 @@
         "pattern": "Net-(J6-Pad8)"
       },
       {
-        "netclass": "Default",
+        "netclass": "5V",
         "pattern": "VCC"
       },
       {
@@ -711,6 +711,10 @@
       {
         "netclass": "5V",
         "pattern": "Net-(D4-Pad2)"
+      },
+      {
+        "netclass": "5V",
+        "pattern": "/USB/VCC_USB"
       }
     ]
   },
