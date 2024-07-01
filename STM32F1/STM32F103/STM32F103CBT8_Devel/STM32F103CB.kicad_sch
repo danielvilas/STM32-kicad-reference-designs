@@ -6704,7 +6704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STM32F103CBT7"
 			(at 49.53 81.28 0)
 			(effects
 				(font
@@ -6713,7 +6713,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "STM32F103CBT7"
 			(at 49.53 81.28 0)
 			(effects
 				(font
@@ -7550,7 +7550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Abracon LLC"
 			(at 208.28 90.17 0)
 			(effects
 				(font
@@ -7559,7 +7559,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "ABM3-8.000MHZ-B4Y-T"
 			(at 208.28 90.17 0)
 			(effects
 				(font
@@ -7916,7 +7916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Abracon LLC"
 			(at 208.28 110.49 0)
 			(effects
 				(font
@@ -7925,7 +7925,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "ABS07AIG-32.768KHZ-D-T"
 			(at 208.28 110.49 0)
 			(effects
 				(font
@@ -8023,7 +8023,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "C0805C100J5RACTU"
 			(at 198.12 115.57 0)
 			(effects
 				(font
@@ -8121,7 +8121,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "C0805C100J5RACTU"
 			(at 198.12 105.41 0)
 			(effects
 				(font

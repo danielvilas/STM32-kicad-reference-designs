@@ -4708,7 +4708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "EVVO"
 			(at 228.6 121.92 0)
 			(effects
 				(font
@@ -4717,7 +4717,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "AMS1117-3.3"
 			(at 228.6 121.92 0)
 			(effects
 				(font

@@ -1207,7 +1207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Würth Elektronik"
 			(at 41.91 50.8 0)
 			(effects
 				(font
@@ -1216,7 +1216,16 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "629105150521"
+			(at 41.91 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2894326"
 			(at 41.91 50.8 0)
 			(effects
 				(font
@@ -1599,7 +1608,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "CR0805-FX-20R0ELF"
 			(at 76.2 50.8 0)
 			(effects
 				(font
@@ -1686,7 +1695,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "CR0805-FX-20R0ELF"
 			(at 76.2 53.34 0)
 			(effects
 				(font
@@ -1838,7 +1847,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "CR0805-FX-1501ELF"
 			(at 68.58 44.45 0)
 			(effects
 				(font
@@ -1915,7 +1924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "onsemi"
 			(at 55.88 45.72 0)
 			(effects
 				(font
@@ -1924,7 +1933,7 @@
 				(hide yes)
 			)
 		)
-		(property "mnp" ""
+		(property "mnp" "SS14"
 			(at 55.88 45.72 0)
 			(effects
 				(font
