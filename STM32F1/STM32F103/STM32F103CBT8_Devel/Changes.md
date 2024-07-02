@@ -9,8 +9,8 @@ Issues to resolve
   * [X] Identify Pin 0 of PA y PB
   * [X] Identify LED PB5
   * [X] Paint USB and Debug pins
-  * [] I2C pins
-  * [] SPI pins
+  * [X] I2C pins
+  * [X] SPI pins
 * [] USB Improvements
   * [x] Differential Traces
   * [] ESD Protection

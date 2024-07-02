@@ -734,7 +734,7 @@
 			)
 		)
 		(property "Value" "8MHz"
-			(at 0 2.8 90)
+			(at 1.5 -2.5 90)
 			(layer "F.Fab")
 			(uuid "b072f34f-08a2-4ce2-96ec-21fbc925981e")
 			(effects
@@ -1087,7 +1087,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 0 1.65 0)
+			(at 2.868 0.054 0)
 			(layer "F.Fab")
 			(uuid "4dbdc8e1-9a81-4a26-b120-c5610388814c")
 			(effects
@@ -1336,7 +1336,7 @@
 			)
 		)
 		(property "Value" "32.768kHz"
-			(at 0 2 90)
+			(at -2.5 -2.5 180)
 			(layer "F.Fab")
 			(uuid "f7eaae7a-30c9-4163-9098-4bf951cc2357")
 			(effects
@@ -1854,7 +1854,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 1.65 90)
+			(at -3.1995 0.326 90)
 			(layer "F.Fab")
 			(uuid "8ea6fab7-4ec9-4894-bf70-3c5dc1f2ec4f")
 			(effects
@@ -2103,7 +2103,7 @@
 			)
 		)
 		(property "Value" "10pf"
-			(at 0 1.65 0)
+			(at 3.5625 0 0)
 			(layer "F.Fab")
 			(uuid "0649831a-f6d2-4d04-9208-c5e31013ef64")
 			(effects
@@ -2352,7 +2352,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 0 1.65 90)
+			(at 0 -2 90)
 			(layer "F.Fab")
 			(uuid "cdf69f2c-9623-4459-bf6a-10d696430795")
 			(effects
@@ -2850,7 +2850,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 0 1.65 0)
+			(at 0 -1.734 0)
 			(layer "F.Fab")
 			(uuid "0c7ba3e9-8b8a-43e3-b45f-5fae23c9ab57")
 			(effects
@@ -3099,7 +3099,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 1.65 90)
+			(at -3.262 0.124 90)
 			(layer "F.Fab")
 			(uuid "fd5cf4a1-8434-4378-8385-cc29aae56c24")
 			(effects
@@ -3348,7 +3348,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 0 1.65 90)
+			(at 0.0625 -1.5 90)
 			(layer "F.Fab")
 			(uuid "378ee4f6-b5dc-4d7a-98a0-a75a2643ef81")
 			(effects
@@ -3597,7 +3597,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.65 90)
+			(at -0.0625 -2 90)
 			(layer "F.Fab")
 			(uuid "f3978807-7ae2-488c-8f01-9466e2d0b04a")
 			(effects
@@ -4117,7 +4117,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 0 1.65 90)
+			(at -0.0625 -2 90)
 			(layer "F.Fab")
 			(uuid "033239b9-a430-451d-aa2a-de7a16649fbd")
 			(effects
@@ -4615,7 +4615,7 @@
 			)
 		)
 		(property "Value" "AMS1117-3.3"
-			(at 0 4.5 90)
+			(at 3 -2 180)
 			(layer "F.Fab")
 			(uuid "a6a1b18c-5449-44dc-ab6d-239e9689431b")
 			(effects
@@ -5559,7 +5559,7 @@
 			)
 		)
 		(property "Value" "20pf"
-			(at 0 1.65 0)
+			(at 3.5625 0 0)
 			(layer "F.Fab")
 			(uuid "361a4639-74f6-4d91-9d76-83bf1a2474b9")
 			(effects
@@ -5808,7 +5808,7 @@
 			)
 		)
 		(property "Value" "GREEN"
-			(at 0 1.65 0)
+			(at 4.4465 -0.16 0)
 			(layer "F.Fab")
 			(uuid "6a0b4931-bf0d-43ba-b9a4-9da12b878e52")
 			(effects
@@ -6079,7 +6079,7 @@
 			)
 		)
 		(property "Value" "20"
-			(at 0 1.65 0)
+			(at 2.746 0.03 0)
 			(layer "F.Fab")
 			(uuid "7b4d6809-c433-4277-8826-25e09552a4b2")
 			(effects
@@ -6599,7 +6599,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 0 1.65 90)
+			(at -3.762 0.338 90)
 			(layer "F.Fab")
 			(uuid "1473e90b-596d-469f-ae31-f50f96fd0e69")
 			(effects
@@ -6848,7 +6848,7 @@
 			)
 		)
 		(property "Value" "STM32F103CBTx"
-			(at 0 5.85 0)
+			(at 1 2 0)
 			(layer "F.Fab")
 			(uuid "b75b57e2-293e-448f-9b26-36ad847356b2")
 			(effects
@@ -7861,7 +7861,7 @@
 			)
 		)
 		(property "Value" "10pf"
-			(at 0 1.65 0)
+			(at 3.5625 0 0)
 			(layer "F.Fab")
 			(uuid "f5456f5f-5af0-4aef-848b-21cae470604d")
 			(effects
@@ -8682,7 +8682,7 @@
 			)
 		)
 		(property "Value" "20pf"
-			(at 0 1.65 0)
+			(at 3.5 0 0)
 			(layer "F.Fab")
 			(uuid "f617d1e2-7a1c-480a-8086-2585e0c8699b")
 			(effects
@@ -8931,7 +8931,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 0 1.65 90)
+			(at 0 -2 90)
 			(layer "F.Fab")
 			(uuid "f3dbcae2-72d2-4953-a164-3f1ac0a8534f")
 			(effects
@@ -9180,7 +9180,7 @@
 			)
 		)
 		(property "Value" "10uf"
-			(at 0 1.75 0)
+			(at 4 0 0)
 			(layer "F.Fab")
 			(uuid "a804b55a-5e2f-4d9a-9613-035e03ea24a7")
 			(effects
@@ -9700,7 +9700,7 @@
 			)
 		)
 		(property "Value" "1K5"
-			(at 0 1.65 0)
+			(at -3.216 -0.11 0)
 			(layer "F.Fab")
 			(uuid "fe979df4-6314-4e5d-b920-2f59a1e05be8")
 			(effects
@@ -10743,7 +10743,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 0 1.65 90)
+			(at -3.694 0.202 90)
 			(layer "F.Fab")
 			(uuid "331aebb0-847d-495e-8ab9-c2af17a24caa")
 			(effects
@@ -10992,7 +10992,7 @@
 			)
 		)
 		(property "Value" "20"
-			(at 0 1.65 0)
+			(at -2.746 0.016 0)
 			(layer "F.Fab")
 			(uuid "31519163-c939-403e-8957-fab13e9b23f8")
 			(effects
@@ -11490,7 +11490,7 @@
 			)
 		)
 		(property "Value" "Conn_01x16"
-			(at 0 40.87 90)
+			(at 2.5 31.5 180)
 			(layer "F.Fab")
 			(uuid "1ff571b5-572f-4e70-8a76-3b6411c6852a")
 			(effects
@@ -11718,7 +11718,7 @@
 			(uuid "55e92e9b-f236-4dfd-9e82-2d00ca6b7c91")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 19.05 0)
+			(at 2.5 19.05 0)
 			(layer "F.Fab")
 			(uuid "b7e4aaa6-94a5-4528-9b98-f69f05f7f101")
 			(effects
@@ -11934,7 +11934,7 @@
 			)
 		)
 		(property "Value" "Conn_01x16"
-			(at 0 40.87 90)
+			(at -2.5 24 180)
 			(layer "F.Fab")
 			(uuid "1761ea1e-9a1d-4227-baa8-066f5db0b7c0")
 			(effects
@@ -12162,7 +12162,7 @@
 			(uuid "a2ad2ca9-a047-40f6-a112-6c22f5d293f7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 19.05 0)
+			(at 2.5 19.5 0)
 			(layer "F.Fab")
 			(uuid "5d51ff63-11b5-40ca-8038-9486ab40b280")
 			(effects
@@ -13062,7 +13062,7 @@
 			)
 		)
 		(property "Value" "SW_DIP_x02"
-			(at 0 4.38 0)
+			(at -8.9935 -2.3967 0)
 			(layer "F.Fab")
 			(uuid "faf98b2e-1294-4399-b909-f2a1bb9d5ebd")
 			(effects
@@ -14172,6 +14172,90 @@
 		(layer "Margin")
 		(uuid "1cd86cf8-b587-4c95-b42f-230d03d66ec7")
 	)
+	(gr_text "SCK2\nMISO2\nMOSI2"
+		(at 147 75.5 90)
+		(layer "B.SilkS")
+		(uuid "9fe15480-f5aa-4a16-b7b3-574494b26f62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "SCL1\nSDA1"
+		(at 127 75.5 90)
+		(layer "B.SilkS")
+		(uuid "9ff01ac7-d643-47d7-b595-fea76c07d5ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RX1\nTX1\n"
+		(at 131.5 114.5 270)
+		(layer "B.SilkS")
+		(uuid "ae33a647-6b1d-4b73-ad81-391aa2d7d71c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "SCL2 TX3\nSDA2 RX3"
+		(at 137 75.5 90)
+		(layer "B.SilkS")
+		(uuid "bd92d0e4-357e-41b7-808c-47e4c0a3238f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MOSI1\nMISO1\nSCK1"
+		(at 122 114.5 -90)
+		(layer "B.SilkS")
+		(uuid "c9fdd72a-c822-4287-a522-b7550dc7bd64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "CAN_RX\nCAN_TX"
+		(at 132 75.5 90)
+		(layer "B.SilkS")
+		(uuid "e8b0159c-3e2a-4e45-9872-55d0d0d16f2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RX2\nTX2\n"
+		(at 114 114.5 270)
+		(layer "B.SilkS")
+		(uuid "fd0a24a3-10a0-45fa-90c5-f4cc44a10784")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "0  -  1"
 		(at 111.7983 76.5406 0)
 		(layer "F.SilkS")
@@ -14316,7 +14400,7 @@
 		)
 	)
 	(gr_text "PB"
-		(at 127.966 71.318 0)
+		(at 131 71.318 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005efd5992")
 		(effects
@@ -14392,6 +14476,42 @@
 			)
 		)
 	)
+	(gr_text "TX2\nRX2"
+		(at 117 114.5 90)
+		(layer "F.SilkS")
+		(uuid "06420c43-231e-4473-be85-912dd573f72a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SCK1\nMISO1\nMOSI1"
+		(at 126.5 114.5 90)
+		(layer "F.SilkS")
+		(uuid "0dd2b8c7-a104-4825-95e0-7c9aa8d23bd3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SDA2 RX3\nSCL2 TX3"
+		(at 134 75.5 270)
+		(layer "F.SilkS")
+		(uuid "0eb6b7bd-4811-4c0d-aeb1-ba2f03102434")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "-3.3V"
 		(at 143.523 94.051 90)
 		(layer "F.SilkS")
@@ -14403,6 +14523,18 @@
 			)
 		)
 	)
+	(gr_text "OI\nI0\nSC"
+		(at 142.5 76 270)
+		(layer "F.SilkS")
+		(uuid "5efb90fb-586a-4730-b687-ce81356d1a59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "-5V"
 		(at 137.3 94.813 90)
 		(layer "F.SilkS")
@@ -14412,6 +14544,30 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+		)
+	)
+	(gr_text "TX1\nRX1"
+		(at 134.5 114.5 90)
+		(layer "F.SilkS")
+		(uuid "fb0400bf-7b9e-4bff-ba20-0d3907590982")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SC\nSD"
+		(at 127 72.5 90)
+		(layer "F.SilkS")
+		(uuid "ff635cd5-c3d4-42f4-bb89-01f496dfc429")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment
