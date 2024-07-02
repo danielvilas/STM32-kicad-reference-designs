@@ -52,7 +52,14 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|164445000|83505000|61eb34f0-dc44-4635-bf00-d329096f99e5|fb607e9c-e7a0-4e57-ac8c-fcb8ba00913c",
+        "hole_clearance|164445000|88505000|d744f14a-b94c-452b-807d-b6bbc6cfb019|5160ce4b-a1b0-4c9d-bb83-a86c28f88841",
+        "silk_edge_clearance|168995000|82155000|26d97e80-8eaa-4f21-852e-3c233f37d222|ae56d1b9-e462-48dc-a66d-32ed4c7ce746",
+        "silk_edge_clearance|168995000|89855000|26d97e80-8eaa-4f21-852e-3c233f37d222|81c25c24-f9df-41f3-a98f-ec0db1bfedd1",
+        "silk_over_copper|111124960|88700048|53cc6c14-fb91-48e1-92c4-e1ce0f5966db|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|112874956|88702830|88b66aec-6342-4f53-a1ad-007e152a4811|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
