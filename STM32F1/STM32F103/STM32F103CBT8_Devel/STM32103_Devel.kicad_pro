@@ -818,8 +818,8 @@
         },
         {
           "group_by": false,
-          "label": "mnp",
-          "name": "mnp",
+          "label": "mpn",
+          "name": "mpn",
           "show": true
         }
       ],
