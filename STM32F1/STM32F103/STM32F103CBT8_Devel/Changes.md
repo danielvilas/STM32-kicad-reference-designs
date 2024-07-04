@@ -22,4 +22,5 @@ Issues to resolve
   * [X] Use JTAG-10p 1.27
   * [X] Same Size as STMF030
 * [x] Use dip sw to BootX pins
+* [x] Power Pins
 
