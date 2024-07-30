@@ -1313,7 +1313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521_CircularHoles"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal"
 			(at 45.72 52.07 0)
 			(effects
 				(font
@@ -1349,7 +1349,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2894326"
+		(property "LCSC" "C132562"
 			(at 41.91 50.8 0)
 			(effects
 				(font
@@ -1358,7 +1358,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "629105150521"
+		(property "mpn" "10118193-0001LF"
 			(at 41.91 50.8 0)
 			(effects
 				(font

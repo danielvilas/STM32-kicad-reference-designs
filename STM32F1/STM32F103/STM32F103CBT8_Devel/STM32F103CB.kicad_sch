@@ -7468,7 +7468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W8.61mm_P2.54mm_LowProfile"
 			(at 140.97 83.82 0)
 			(effects
 				(font
@@ -7504,7 +7504,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2921579"
+		(property "LCSC" "C2842684"
 			(at 140.97 83.82 0)
 			(effects
 				(font
@@ -7513,7 +7513,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CT2192LPST-ND"
+		(property "mpn" "219-2LPST"
 			(at 140.97 83.82 0)
 			(effects
 				(font
@@ -7533,6 +7533,14 @@
 		)
 		(pin "4"
 			(uuid "b3bce97d-4aa2-454d-a4fe-03064924e44d")
+		)
+		(instances
+			(project ""
+				(path "/85ec8920-663a-4b80-8ed7-b7d8c4fb3d9b/00000000-0000-0000-0000-00006115f145"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7731,7 +7739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "STM32103_Devel:SW_PTS526_SM08_SMTR2_LFS"
 			(at 138.43 127 0)
 			(effects
 				(font
@@ -7758,7 +7766,34 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "C&K"
+			(at 133.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PTS526 SK15 SMTR2 LFS"
+			(at 133.35 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "PTS526 SK15 SMTR2 LFS"
+			(at 133.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2689521"
 			(at 133.35 127 0)
 			(effects
 				(font
