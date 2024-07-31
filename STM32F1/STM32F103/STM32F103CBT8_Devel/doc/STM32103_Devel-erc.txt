@@ -1,0 +1,9 @@
+ERC report (2024-07-31T09:23:37+0000, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /STM32F103CB/
+
+***** Sheet /USB/
+
+ ** ERC messages: 0  Errors 0  Warnings 0

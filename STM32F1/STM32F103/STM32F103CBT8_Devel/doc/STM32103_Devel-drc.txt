@@ -1,0 +1,16 @@
+** Drc report for STM32103_Devel.kicad_pcb **
+** Created on 2024-07-31T09:23:48+0000 **
+
+** Found 2 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning (excluded)
+    @(111.125 mm, 87.325 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning (excluded)
+    @(112.875 mm, 87.325 mm): Segment on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
