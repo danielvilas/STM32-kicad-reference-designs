@@ -30,6 +30,7 @@ Issues to resolve
   * [x] Better Part
 * [X] MPNs
   * [X] Headers
+* [X] I2c Pull Ups
 * [] USB Improvements
   * [X] USB-C? -> no but changed
   * [] ESD Protection

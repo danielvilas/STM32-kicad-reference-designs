@@ -1,5 +1,5 @@
 ** Drc report for STM32103_Devel.kicad_pcb **
-** Created on 2024-07-31T09:23:48+0000 **
+** Created on 2024-08-14T17:56:18+0000 **
 
 ** Found 2 DRC violations **
 [silk_over_copper]: Silkscreen clipped by solder mask
