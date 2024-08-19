@@ -761,8 +761,8 @@ endobj
 ["Footprint = LQFP-48_7x7mm_P0.5mm"],
 ["Datasheet = http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf", "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"],
 ["LCSC = C8304"],
-["Manufacturer = STM32F103CBT7"],
-["mpn = STM32F103CBT7"],
+["Manufacturer = STM32F103CBT6"],
+["mpn = STM32F103CBT6"],
 ["part = STM32F103CBTx-MCU_ST_STM32F1"],
 ]\);) >>
 >>
@@ -1206,7 +1206,7 @@ endobj
 169 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20240819072235)
+/CreationDate (D:20240819093734)
 /Creator (PCBNEW)
 /Title (STM32103_Devel-B_Courtyard.pdf)
 >>

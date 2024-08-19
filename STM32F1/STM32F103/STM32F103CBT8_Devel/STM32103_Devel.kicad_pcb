@@ -6922,7 +6922,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "STM32F103CBT7"
+		(property "Manufacturer" "STM32F103CBT6"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6935,7 +6935,7 @@
 				)
 			)
 		)
-		(property "mpn" "STM32F103CBT7"
+		(property "mpn" "STM32F103CBT6"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

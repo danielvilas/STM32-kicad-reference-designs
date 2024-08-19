@@ -5743,7 +5743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "STM32F103CBT7"
+		(property "Manufacturer" "STM32F103CBT6"
 			(at 49.53 81.28 0)
 			(effects
 				(font
@@ -5752,7 +5752,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "STM32F103CBT7"
+		(property "mpn" "STM32F103CBT6"
 			(at 49.53 81.28 0)
 			(effects
 				(font
