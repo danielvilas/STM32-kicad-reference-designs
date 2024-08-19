@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "6249379e-984e-4f05-a1e7-f20bafb7bb24")
 	(paper "A4")
+	(title_block
+		(title "STM32F103 Devel")
+		(date "2024-08-19")
+		(rev "0.0.3")
+		(company "Daniel Vilas")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x05_Odd_Even"
 			(pin_names

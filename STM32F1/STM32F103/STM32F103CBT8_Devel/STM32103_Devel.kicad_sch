@@ -5,8 +5,10 @@
 	(uuid "85ec8920-663a-4b80-8ed7-b7d8c4fb3d9b")
 	(paper "A4")
 	(title_block
-		(date "2020-07-01")
-		(rev "0.0.2")
+		(title "STM32F103 Devel")
+		(date "2024-08-19")
+		(rev "0.0.3")
+		(company "Daniel Vilas")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x16"

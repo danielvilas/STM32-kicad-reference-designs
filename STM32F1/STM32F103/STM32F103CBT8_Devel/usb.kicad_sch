@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "1a5597a5-be89-4104-a804-856f4283bc02")
 	(paper "A4")
+	(title_block
+		(title "STM32F103 Devel")
+		(date "2024-08-19")
+		(rev "0.0.3")
+		(company "Daniel Vilas")
+	)
 	(lib_symbols
 		(symbol "Device:D_Schottky"
 			(pin_numbers hide)
