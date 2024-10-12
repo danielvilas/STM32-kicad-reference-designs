@@ -15876,6 +15876,18 @@
 		(layer "Margin")
 		(uuid "1cd86cf8-b587-4c95-b42f-230d03d66ec7")
 	)
+	(gr_text "STM32F103\nv 0.0.3"
+		(at 148 93.6 -0)
+		(layer "B.SilkS")
+		(uuid "5d8dfa6d-ba6f-4c5c-baff-3ab001fce72e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "SCK2\nMISO2\nMOSI2"
 		(at 147 75.5 90)
 		(layer "B.SilkS")
@@ -16240,6 +16252,18 @@
 				(thickness 0.15)
 			)
 			(justify right bottom)
+		)
+	)
+	(gr_text "STM32F103\nv 0.0.3"
+		(at 120 103.2 0)
+		(layer "F.SilkS")
+		(uuid "f1e7c9c8-08d0-4924-8212-35e69e861c05")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "TX1\nRX1"
