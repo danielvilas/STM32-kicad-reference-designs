@@ -1618,6 +1618,14 @@
 		(pin "2"
 			(uuid "c68372f8-1431-4409-937a-b3a48a6eb428")
 		)
+		(instances
+			(project "STM32103_Devel"
+				(path "/85ec8920-663a-4b80-8ed7-b7d8c4fb3d9b/00000000-0000-0000-0000-0000610cb4c8"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "STM32103_Devel-rescue:GND-power")
@@ -1770,6 +1778,14 @@
 		(pin "2"
 			(uuid "e8d28767-ba42-4c02-b473-4707ced292d5")
 		)
+		(instances
+			(project "STM32103_Devel"
+				(path "/85ec8920-663a-4b80-8ed7-b7d8c4fb3d9b/00000000-0000-0000-0000-0000610cb4c8"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -1856,6 +1872,14 @@
 		)
 		(pin "2"
 			(uuid "6b1efa0e-3b73-4dbf-84c0-143b2ce81d8b")
+		)
+		(instances
+			(project "STM32103_Devel"
+				(path "/85ec8920-663a-4b80-8ed7-b7d8c4fb3d9b/00000000-0000-0000-0000-0000610cb4c8"
+					(reference "R10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2009,6 +2033,14 @@
 		(pin "2"
 			(uuid "ab6c9ebb-e4ac-493c-9e09-ce8e4b694370")
 		)
+		(instances
+			(project "STM32103_Devel"
+				(path "/85ec8920-663a-4b80-8ed7-b7d8c4fb3d9b/00000000-0000-0000-0000-0000610cb4c8"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
@@ -2094,6 +2126,14 @@
 		)
 		(pin "2"
 			(uuid "ded357da-dd58-4349-9006-8c781e25bcbd")
+		)
+		(instances
+			(project "STM32103_Devel"
+				(path "/85ec8920-663a-4b80-8ed7-b7d8c4fb3d9b/00000000-0000-0000-0000-0000610cb4c8"
+					(reference "D4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
