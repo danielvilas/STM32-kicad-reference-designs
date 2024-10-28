@@ -5838,6 +5838,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5632705"
+			(at 154.94 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3e821e1-6045-4862-87ec-7c4629d455fb")
 		)
@@ -6004,6 +6013,15 @@
 			)
 		)
 		(property "mpn" "CT2192LPST-ND"
+			(at 140.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2842684"
 			(at 140.97 83.82 0)
 			(effects
 				(font

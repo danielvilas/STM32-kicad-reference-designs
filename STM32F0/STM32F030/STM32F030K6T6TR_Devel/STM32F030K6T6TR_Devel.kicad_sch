@@ -5527,7 +5527,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" " T491A106K010AT"
+		(property "mpn" "T491A106K010AT"
 			(at 248.92 127 0)
 			(effects
 				(font
@@ -5623,7 +5623,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" " T491A106K010AT"
+		(property "mpn" "T491A106K010AT"
 			(at 213.36 127 0)
 			(effects
 				(font
